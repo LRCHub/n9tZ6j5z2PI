@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Shabon",
+  "base_artist": "yousti",
+  "createdAt": "2025-12-26T02:31:55.236745Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "shabon dama Days",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/01_shabon_dama_Days_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shabon",
+      "artist": "Momosumomosu",
+      "has_synced": false,
+      "path": "select/02_Shabon_Momosumomosu.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SHABON-DAMA",
+      "artist": "TOPHAMHAT-KYO",
+      "has_synced": true,
+      "path": "select/03_SHABON-DAMA_TOPHAMHAT-KYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shabon",
+      "artist": "yousti",
+      "has_synced": false,
+      "path": "select/pl_01_Shabon_yousti.txt"
+    }
+  ]
+}
